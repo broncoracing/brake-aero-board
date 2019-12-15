@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=DS? Old Footprint=LTST-C193KRKT-5A_V New Footprint=ROHM-SML-P11MT_V
+Change Component Comment : Designator=DS? Old Comment=LTST-C193KRKT-5A New Comment=SML-P11MTT86
+Change component parameters: Designator = "DS?"; Footprint = "ROHM-SML-P11MT_V"; UniqueID = "\DVOZJMQH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16201/sml-p11mtt86-16201197.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 2.0, 08/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimension"; Value = "1x0.6x0.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward (Drive) Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Intensity"; Value = "2.1mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Type"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.rohm.com/web/global/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 0.6 x 1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SML-P11MT"; VariantName = "[No Variations]"

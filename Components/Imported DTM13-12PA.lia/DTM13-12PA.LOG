@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : DTM13-12PA.LibPkg
+
+Section : C:\Users\Zain\Downloads\DTM13-12PA\DTM13-12PA.lia
+    Section : PCB Library - DTM13-12PA.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DTM13-12PA On Line 170
+            Warning - 1 : Skipping Token attachedSymbol On Line 320
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DTM13-12PA.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 151
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - DTM13-12PA.SchLib
+        EndSection
+    EndSection
+EndSection

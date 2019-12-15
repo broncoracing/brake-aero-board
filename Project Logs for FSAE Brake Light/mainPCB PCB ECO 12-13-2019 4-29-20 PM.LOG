@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+12 Pin=LL1-1
+Removed Pin From Net: NetName=SWCLK Pin=P1-1
+Removed Pin From Net: NetName=LED_PWM Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=+12 Pin=R4-1
+Removed Pin From Net: NetName=+12 Pin=R5-1
+Removed Pin From Net: NetName=+12 Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=LED_PWM Pin=U2-3
+Removed Pin From Net: NetName=+12 Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-16
+Removed Member From Class: ClassName=MainSchem Member=C10
+Removed Member From Class: ClassName=MainSchem Member=L1
+Removed Member From Class: ClassName=MainSchem Member=L2
+Removed Member From Class: ClassName=MainSchem Member=L3
+Removed Member From Class: ClassName=MainSchem Member=L4
+Removed Member From Class: ClassName=MainSchem Member=L5
+Removed Member From Class: ClassName=MainSchem Member=L6
+Removed Member From Class: ClassName=MainSchem Member=L7
+Removed Member From Class: ClassName=MainSchem Member=L8
+Removed Member From Class: ClassName=MainSchem Member=L9
+Removed Member From Class: ClassName=MainSchem Member=L10
+Removed Member From Class: ClassName=MainSchem Member=L11
+Removed Member From Class: ClassName=MainSchem Member=L12
+Removed Member From Class: ClassName=MainSchem Member=L13
+Removed Member From Class: ClassName=MainSchem Member=L14
+Removed Member From Class: ClassName=MainSchem Member=LL1
+Removed Member From Class: ClassName=MainSchem Member=Q1
+Removed Member From Class: ClassName=MainSchem Member=R4
+Removed Member From Class: ClassName=MainSchem Member=R5
+Removed Member From Class: ClassName=MainSchem Member=R6
+Removed Member From Class: ClassName=MainSchem Member=R7
+Removed Member From Class: ClassName=MainSchem Member=R8
+Removed Member From Class: ClassName=MainSchem Member=R9
+Removed Member From Class: ClassName=MainSchem Member=R10
+Removed Member From Class: ClassName=MainSchem Member=R11
+Removed Member From Class: ClassName=MainSchem Member=U2
+Change Component Footprint: Designator=P1 Old Footprint=TECO-5-146280-2_V New Footprint=SMTC-TSW-104-08-X-S
+Change Component Comment : Designator=P1 Old Comment=5-146280-2 New Comment=TSW-104-08-G-S
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D8C3BB1D-F9FD-409C-BA3B-5E1102922A8F Old RevisionGUID= New RevisionGUID=3D614E2D-7264-4E1E-A4B3-41D115A34D79
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D8C3BB1D-F9FD-409C-BA3B-5E1102922A8F Old RevisionGUID= New RevisionGUID=3D614E2D-7264-4E1E-A4B3-41D115A34D79
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=B6322B02-B8CA-4D83-A40A-5A0DE1A4C6FF Old RevisionGUID= New RevisionGUID=C401E6F2-B84E-433E-8F03-FA46B5DC8401
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=C7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=C8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=C9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=33ADB075-7C25-4466-9FBD-5701ACBA1D0F Old RevisionGUID= New RevisionGUID=D1C1F5EB-FC5F-4B66-83A4-9CF725E8AC67
+Change Managed Component Library Link : Designator=LED1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BFAEAF46-64D6-4F88-A2DB-1F3E5014C5FB Old RevisionGUID= New RevisionGUID=F8D53525-D37B-4A79-9547-6691E9AEC5D9
+Change Managed Component Library Link : Designator=P1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3AED76DB-8E57-4F91-80AC-4F3212C0D6E3 Old RevisionGUID= New RevisionGUID=67539129-B97E-46C8-850F-4CCF53EBD3ED
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=87B8A561-E019-4FB8-8C70-5EC21E97C2BA Old RevisionGUID= New RevisionGUID=0191582B-A3EF-4C3F-B5A1-5A33528CB504
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5EBADA53-EE36-48B0-A9F3-FF583C45177B Old RevisionGUID= New RevisionGUID=8654F38E-8BCA-4E95-9560-7CDC346E2905
+Change Managed Component Library Link : Designator=R3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DED4E1F5-9E81-4E4B-B4ED-0018E9629CCF Old RevisionGUID= New RevisionGUID=D6606524-1ADE-4578-AAC4-EFEBA7EFD528
+Change Managed Component Library Link : Designator=U1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=5676E1B9-8AC9-43C7-8422-60B8A52E6342 Old RevisionGUID= New RevisionGUID=8701FB9E-FAC1-4E21-B559-DB18E20ECA41
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=04913D84-C2C6-489C-8C53-BE3A7D133613 Old RevisionGUID= New RevisionGUID=06CCEABF-2E8B-4393-86A9-B4DEEC9C3194
+Change Managed Component Library Link : Designator=X1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=18476443-D634-4AEA-B4DA-BD38234F0141 Old RevisionGUID= New RevisionGUID=72D6E230-243F-42AA-A5A0-B20A3637A5E8
+Change component parameters: Designator = "P1" ("P1"); Footprint = "TECO-5-146280-2_V"; UniqueID = "\HXPCGYBJ" ("\HXPCGYBJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSW_TH.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSW-XXX-XX-XXX-X-XX-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ".025[0.64] SQ. Post Terminal Strip Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TSW-104-08-X-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "DM, 8/1988"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TSW-104-08-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANH Pin=J1-1
+Added Pin To Net: NetName=+12 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=LED_PWM Pin=J1-8
+Added Pin To Net: NetName=CANL Pin=J1-12
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=Servo1 Pin=U1-10
+Added Net: Name=Servo1
+Added Pin To Net: NetName=Servo2 Pin=U1-11
+Added Net: Name=Servo2
+Added Pin To Net: NetName=Servo3 Pin=U1-12
+Added Net: Name=Servo3
+Added Pin To Net: NetName=Servo4 Pin=U1-13
+Added Net: Name=Servo4
+Added Room: Name=MainSchem

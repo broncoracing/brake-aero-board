@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : PLMZM23601SILR.LibPkg
+
+Section : C:\Users\Zain\Downloads\PLMZM23601SILR.lia
+    Section : PCB Library - PLMZM23601SILR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PLMZM23601SILR On Line 303
+            Warning - 1 : Skipping Token attachedSymbol On Line 470
+            Warning - 1 : Skipping Token 1 On Line 495
+            Warning - 1 : Skipping Token 2 On Line 497
+            Warning - 1 : Skipping Token 3 On Line 499
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CONV_PLMZM23601SILR][Primary] associated with PCAD Component [PLMZM23601SILR] has been renamed to PCB FootPrint [*CONV_PLMZM23601SILR_PLMZM23601SILR(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - PLMZM23601SILR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 204
+            Warning - 1 : Skipping Token layerContents On Line 209
+            Warning - 1 : Skipping Token layerContents On Line 218
+            Warning - 1 : Skipping Token layerContents On Line 224
+            Warning - 1 : Skipping Token layerContents On Line 292
+            Warning - 1 : Skipping Token 1 On Line 495
+            Warning - 1 : Skipping Token 2 On Line 497
+            Warning - 1 : Skipping Token 3 On Line 499
+        EndSection
+
+        Section : Generating SCH Library - PLMZM23601SILR.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CONV_PLMZM23601SILR][Primary] associated with PCAD Component [PLMZM23601SILR] has been renamed to PCB FootPrint [*CONV_PLMZM23601SILR_PLMZM23601SILR(Primary)].
+        EndSection
+    EndSection
+EndSection
